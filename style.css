@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    width: 50%;
+}
+
+#container h1 {
+    text-align: center;
+}
+#container h2 {
+    background-color: #A9A9A9;
+}
